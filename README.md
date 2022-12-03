@@ -3,6 +3,8 @@ Then run the second cell to train it and get the report.
 Then run the thrird cell to interpret the model.
 Without GPU this would take a lot of time. Probably a day or so. With GPU it would run in couple of hours. 
 
+Get the code from here if required: https://github.com/vishakudupa/text-classification
+
 Python Version = 3.10.8
 Link to kaggle to run the notebook incase it does not run on your system. https://www.kaggle.com/code/vishakudupa/data-mining-project
 
